@@ -1,0 +1,6 @@
+com\fav\boot\FAVDispatcherServletInitializer.class
+com\fav\config\WebConfig.class
+com\fav\config\RootConfig.class
+com\fav\controller\ProductController.class
+com\fav\form\ProductForm.class
+com\fav\validator\ProductFormValidator.class
